@@ -3,3 +3,6 @@
 
 @import "{{ site.theme }}";
 
+header, hr {
+  display: none
+}
