@@ -1,5 +1,7 @@
-# javascript-bubblesort
-Bubble sort with JavaScript, because why not?
+# JavaScript Bubble Sort
+Hey, you like JavaScript? And bubbles? How about sorting?
+
+Oh friend, have I got a function for you!
 
 ```javascript
 function bubbleSort(array) {
@@ -18,3 +20,5 @@ function bubbleSort(array) {
   return array;
 }
 ```
+
+Inspired by [Sarah Drasner's Tweet](https://twitter.com/sarah_edo/status/1037774093875965952)
