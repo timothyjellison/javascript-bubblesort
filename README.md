@@ -22,3 +22,5 @@ function bubbleSort(array) {
 ```
 
 Inspired by [Sarah Drasner's Tweet](https://twitter.com/sarah_edo/status/1037774093875965952)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ok want a dev life hack for real? As soon as you understand a concept, make a reduced example of it. As simple as you can make it. Then you can refer to it later when you inevitably forget. Bonus points if you open source it.</p>&mdash; Sarah Drasner honeymoonin’ (@sarah_edo) <a href="https://twitter.com/sarah_edo/status/1037774093875965952?ref_src=twsrc%5Etfw">September 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
